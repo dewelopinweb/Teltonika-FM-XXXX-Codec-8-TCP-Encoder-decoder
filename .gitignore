@@ -1,0 +1,16 @@
+*~
+.svn
+.idea
+jss
+aggregator
+waplogs
+/nbproject/
+/webstat/
+/git-hook-update/
+composer.phar
+/vendor
+phpunit.phar
+/phpunit.xml
+/.vagrant
+/vagrant
+/log

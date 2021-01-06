@@ -1,0 +1,21 @@
+{
+  "name": "customsoft/teltonika",
+  "description": "Teltonika FMXXXX decoder/encoder",
+  "type": "library",
+  "require": {
+    "php": ">=7.2"
+  },
+  "version": "1.0.0",
+  "autoload":{
+    "psr-4": {
+      "customsoft\\teltonika\\": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anton",
+      "email": "antoxakpi@ukr.net"
+    }
+  ]
+}
